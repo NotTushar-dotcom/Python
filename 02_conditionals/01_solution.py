@@ -1,6 +1,6 @@
 # AGE GROUP CATEGORIZATION:
 
-# classify a person's age group: Child (<13), Teenager(13-19), Adult (20-64), Senior (65+)
+# classify a person's age group: Child (<13), Teenager(13-19), Adult (20-64), Senior (65+).
 
 age = int(input("Enter the age:"))
 
