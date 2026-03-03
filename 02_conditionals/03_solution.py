@@ -6,6 +6,7 @@ Score =int(input("Enter Total Score:"))
 
 if Score >=101:
     print("Please Check Score Again !!")
+    exit()
 
 if Score >= 90:
     print("Grade A")
