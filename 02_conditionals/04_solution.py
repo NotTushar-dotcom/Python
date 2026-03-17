@@ -2,8 +2,8 @@
 
 # Determine if a fruit is ripe, overripe, or unripe based on its color. (e.g., Banana: Green - Unripe, Yellow - Ripe, Brown - Overripe)
 
-Fruit = "Banana"
-color = "Green"
+Fruit = input("Enter the fruit you want to check: ")
+color = input("Enter the color of the fruit: ")
 
 if Fruit == "Banana":
     if color == "Green":
